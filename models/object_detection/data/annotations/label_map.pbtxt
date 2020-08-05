@@ -1,0 +1,24 @@
+item {
+    id: 1
+    name: 'stop'
+}
+
+item {
+    id: 2
+    name: 'signalAhead'
+}
+
+item {
+    id: 3
+    name: 'speedLimit25'
+}
+
+item {
+    id: 4
+    name: 'speedLimit35'
+}
+
+item {
+    id: 5
+    name: 'pedestrianCrossing'
+}
